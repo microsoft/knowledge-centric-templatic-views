@@ -6,7 +6,7 @@ numpy==1.25.1
 openai==0.27.8
 pandas==2.0.3
 regex==2023.8.8
-requests==2.31.0
+requests==2.32.2
 rouge==1.0.1
 scipy==1.11.1
 tokenizers==0.13.3
