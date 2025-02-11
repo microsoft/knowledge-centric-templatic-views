@@ -12,5 +12,5 @@ scipy==1.11.1
 tokenizers==0.13.3
 torch==2.0.1
 tqdm==4.65.0
-transformers==4.32.1
+transformers==4.48.0
 tenacity==8.2.3
