@@ -10,7 +10,7 @@ requests==2.31.0
 rouge==1.0.1
 scipy==1.11.1
 tokenizers==0.13.3
-torch==2.0.1
+torch==2.6.0
 tqdm==4.65.0
 transformers==4.32.1
 tenacity==8.2.3
